@@ -13,7 +13,7 @@ const Home = () => {
         }
     },[darkMode])
     return (
-        <section className="flex items-center justify-center h-fit mt-20 w-[25rem] flex-col gap-4 ml-3 mr-4 dark:bg-[#121214] p-6 rounded-sm shadow-shadow_ shadow-black text-black border border-black dark:shadow-shadowDark'">
+        <section className="flex items-center justify-center h-fit mb-20 w-[25rem] flex-col gap-4 ml-3 mr-4 dark:bg-[#121214] p-6 rounded-sm shadow-shadow_ shadow-black text-black border border-black dark:shadow-shadowDark'">
                 <div className="flex items-center justify-center flex-col gap-4">
                     <Avatar>
                     <AvatarImage src="https://github.com/pedrinvits.png" />
